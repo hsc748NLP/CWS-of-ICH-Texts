@@ -1,0 +1,5 @@
+             precision    recall  f1-score   support
+
+        tag     0.9728    0.9729    0.9728    105480
+
+avg / total     0.9728    0.9729    0.9728    105480

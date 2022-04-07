@@ -1,0 +1,1 @@
+{"bert_model": "../pre-train-models/RoBERTa_zh_L12_PyTorch/", "do_lower": false, "max_seq_length": 128, "num_labels": 7, "label_map": {"1": "B-tag", "2": "I-tag", "3": "E-tag", "4": "S-tag", "5": "[CLS]", "6": "[SEP]"}}
